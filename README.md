@@ -316,14 +316,14 @@ Interface Inicial:
 
 ![adas6](https://github.com/user-attachments/assets/a126ded8-a3a1-49b3-844a-16fa542108da)
 
-Interface do carrinho e formas de pagamento:
+Interface do carrinho e formas de pagamento:<html><br></html>
 ![adas7](https://github.com/user-attachments/assets/b9878a32-46be-4314-b219-085365153e2c)
 ![adas8](https://github.com/user-attachments/assets/b3bf194c-114f-4a89-935f-e5a14856dfb5)
 
 
 **Wireframe completo - Versão Computador:**
 
-Interface Inicial:
+Interface Inicial:<html><br></html>
 ![adas9](https://github.com/user-attachments/assets/8593c54c-c416-421d-a528-0ef2ac6adc82)
 
 Interface do carrinho e formas de pagamento:
