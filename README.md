@@ -1,66 +1,22 @@
-**Termo de Requisitos de Alto Nível**
 
-**Estudo de Caso: Digitalização e automatização da encomenda de produtos
-na Lanchonete Da Carminha**
+# Termo de Requisitos de Alto Nível
 
-![adas](https://github.com/user-attachments/assets/d8baed75-66ab-4f3e-92ba-9bec7b6afc77)
+## Estudo de Caso: Digitalização e automatização da encomenda de produtos na Lanchonete Da Carminha
+
+<img src= "/Imagens/Logo.png">
+
+## 1.DESAFIO
+
+Este estudo de caso busca idealizar e prototipar um sistema de software responsivo, acessível tanto em *smartphones* quanto em computadores, capaz de gerenciar de forma eficiente os pedidos da Lanchonete Da Carminha. O desafio consiste na digitalização e centralização das solicitações de encomendas, tornando o processo mais ágil e organizado, a fim de melhorar a experiência tanto dos clientes quanto da gestão interna.
+
+## 2.CONTEXTO
 
 
-**1.DESAFIO**
+- **Facilidade de acesso:** assim como grandes plataformas, como  Facebook e Twitter, utilizam aplicativos para melhorar a experiência do usuário, a implementação de um sistema próprio garantiria navegação rápida e intuitiva.
 
-Este estudo de caso busca idealizar e prototipar um sistema de software
-responsivo, acessível tanto em smartphones quanto em computadores, capaz
-de gerenciar de forma eficiente os pedidos da Lanchonete Da Carminha. O
-desafio consiste na digitalização e centralização das solicitações de
-encomendas, tornando o processo mais ágil e organizado, a fim de
-melhorar a experiência tanto dos clientes quanto da gestão interna.
+- **Fidelização de clientes:** o sistema pode ser configurado para coletar dados e mapear o comportamento dos clientes, permitindo a criação de campanhas personalizadas que aumentam a fidelidade e a retenção.
 
-**2.CONTEXTO**
-
-Hoje, não é segredo, muito menos exagero, dizer que os aplicativos de celulares
-já fazem parte do dia a dia das pessoas. A adoção de ferramentas digitais no
-empreendimento se tornou fundamental para o sucesso de empresas, especialmente em
-setores como alimentação e serviços. Segundo dados da [App Annie](https://www.digitalinformationworld.com/2022/01/app-annie-publishes-data-revealing.html), o tempo médio
-diário que as pessoas passam em aplicativos de celular cresceu 30% entre 2020 e 2021.
-Além disso, uma pesquisa da [Think with Google](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-app-marketing-insights/) revelou que 89% dos consumidores utilizam aplicativos móveis para interagir com empresas.
-
-Atualmente, os pedidos de encomenda são realizados via WhatsApp —
-única plataforma digital disponível — ou presencialmente, durante o
-horário de funcionamento. Esse processo é **suscetível a vários
-problemas**, como interrupções no fluxo de atendimento durante horários
-de pico e ruídos na coleta de informações devido à sobrecarga de
-trabalho. A falta de um sistema unificado também dificulta o controle e
-o monitoramento dos pedidos, o que pode ocasionar falhas na gestão dos
-processos internos.
-
-Hoje, não é segredo, muito menos exagero, dizer que os aplicativos de
-celulares já fazem parte do dia a dia das pessoas. A adoção de
-ferramentas digitais no empreendimento se tornou fundamental para o
-sucesso de empresas, especialmente em setores como alimentação e
-serviços. Segundo dados da [*[App
-Annie]{.underline}*](https://www.digitalinformationworld.com/2022/01/app-annie-publishes-data-revealing.html),
-o tempo médio diário que as pessoas passam em aplicativos de celular
-cresceu 30% entre 2020 e 2021. Além disso, uma pesquisa da [*[Think with
-Google]{.underline}*](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-app-marketing-insights/)
-revelou que 89% dos consumidores utilizam aplicativos móveis para
-interagir com empresas .
-
-Dessa forma, um sistema de gerenciamento de pedidos para a Lanchonete Da
-Carminha proporcionaria diversas vantagens, tais como:
-
-- **Facilidade de acesso:** assim como grandes plataformas, como
-  > Facebook e Twitter, utilizam aplicativos para melhorar a experiência
-  > do usuário, a implementação de um sistema próprio garantiria
-  > navegação rápida e intuitiva.
-
-- **Fidelização de clientes:** o sistema pode ser configurado para
-  > coletar dados e mapear o comportamento dos clientes, permitindo a
-  > criação de campanhas personalizadas que aumentam a fidelidade e a
-  > retenção.
-
-- **Aumento da credibilidade e reconhecimento da marca:** um aplicativo
-  > próprio gera confiança nos consumidores e melhora a visibilidade no
-  > mercado, criando uma imagem mais sólida e confiável da empresa.
+- **Aumento da credibilidade e reconhecimento da marca:** um aplicativo próprio gera confiança nos consumidores e melhora a visibilidade no mercado, criando uma imagem mais sólida e confiável da empresa.
 
 Além disso, o uso de tecnologia para automação dos processos internos,
 como controle de estoque e geração de relatórios, pode **aumentar a
@@ -68,9 +24,9 @@ produtividade e otimizar a gestão da lanchonete**. Soluções como essas
 são essenciais para manter a competitividade e se adaptar às demandas do
 consumidor moderno, que busca conveniência e agilidade no atendimento.
 
-**3.WHY?**
+## 3.WHY?
 
-**3.1.QUEM UTILIZARÁ O SISTEMA?**
+### 3.1.QUEM UTILIZARÁ O SISTEMA?
 
 Considerando o contexto da Zona da Mata de Minas Gerais, com foco na
 microrregião de Viçosa, os **potenciais usuários** do sistema incluem
@@ -87,7 +43,7 @@ organizam eventos, como aniversários, casamentos ou confraternizações,
 tendem a buscar soluções práticas e saborosas que atendam suas
 necessidades de forma eficiente.
 
-**3.2.QUAIS SERIAM OS PROBLEMAS?**
+### 3.2.QUAIS SERIAM OS PROBLEMAS?
 
 Com base na identificação dos perfis, bem como dos potenciais usuários,
 estima-se que a maioria possua um **conhecimento técnico em informática
@@ -95,7 +51,7 @@ de nível básico a intermediário**. Isso pode gerar alguns desafios
 relacionados à usabilidade, como dificuldade de navegação e entendimento
 de funcionalidades mais complexas. Esses fatores exigem que o
 desenvolvimento do aplicativo siga rigorosamente as melhores práticas de
-UX/UI (Experiência e Interface do Usuário), garantindo uma interface
+*UX/UI* (Experiência e Interface do Usuário), garantindo uma interface
 intuitiva, acessível e de fácil aprendizado.
 
 Outro possível problema é a **diversidade de dispositivos utilizados
@@ -109,20 +65,13 @@ região, o que reforça a necessidade de otimização de performance para
 minimizar o consumo de dados e garantir o funcionamento adequado mesmo
 em redes de baixa velocidade.
 
-**3.3.STORYTELLING**
+### 3.3.STORYTELLING
 
 Era uma tarde movimentada na Lanchonete Da Carminha. O sol forte de
 Teixeiras anunciava o início de mais um dia de pico, quando dezenas de
-clientes lotavam o pequeno espaço na esquina da Rua Antônio Moreira
-Barros. Felipe, o atendente mais experiente, já estava acostumado com o
-frenesi, mas sabia que aquele horário sempre reservava surpresas. Na
-mesa do fundo, uma cliente fazia encomenda para um aniversário, enquanto
-na fila de espera outros discutiam quais salgados da prateleira
-escolheriam para comer. Tudo corria como de costume **até que o WhatsApp
-começou a disparar sem parar**.
+clientes lotavam o pequeno espaço da lanchonete. Felipe, o atendente mais experiente, já estava acostumado com o frenesi, mas sabia que aquele horário sempre reservava surpresas. Na mesa do fundo, uma cliente fazia encomenda para um aniversário, enquanto na fila de espera outros discutiam quais salgados da prateleira escolheriam para comer. Tudo corria como de costume **até que o WhatsApp começou a disparar sem parar**.
 
-Mensagens e chamadas de novos pedidos pipocavam em sequência. **O número
-crescente de solicitações se misturava com as ordens feitas
+Mensagens e chamadas de novos pedidos pipocavam em sequência. **O número crescente de solicitações se misturava com as ordens feitas
 presencialmente**. Felipe, correndo entre a cozinha e o balcão, tentava
 gerenciar todas as demandas, mas algo estava saindo de controle. \"Você
 confirmou aquele pedido de cento de coxinhas?\", questionou Carminha, a
@@ -144,11 +93,11 @@ deixado o estabelecimento, sem deixar nenhum número para contato,
 confiando apenas no acordo verbal de que retornariam no dia combinado
 para buscar suas encomendas.
 
-\"Isso nunca deveria ter acontecido!\", exclamou Carminha, desesperada
+\"Nunca deveria ter acontecido isso!\", exclamou Carminha, desesperada
 ao perceber a gravidade da situação. Ela se sentia perdida, sem saber
 por onde começar a resolver o problema. O **caos de gerenciar tudo
 manualmente estava cobrando seu preço**, e a falta de controle sobre os
-pedidos só tornava as coisas mais difíceis. Jonas, mesmo dando seu
+pedidos só tornava as coisas mais difíceis. Felipe, mesmo dando seu
 melhor, começava a perceber que o processo, repleto de falhas e
 improvisos, estava desmoronando lentamente, como uma barragem prestes a
 ruir.  
@@ -186,13 +135,10 @@ eficiência, organização e maior controle sobre o fluxo de pedidos,
 permitindo que a equipe se concentrasse em outras atividades essenciais,
 impulsionando o crescimento do negócio.
 
-***// Em um mercado competitivo, o uso de tecnologia não é apenas uma
-vantagem --- é uma necessidade para garantir a excelência e a
-sustentabilidade do estabelecimento.***
 
-**4.WHO?**
+## 4.WHO?
 
-**4.1.PERSONAS E MAPAS DE EMPATIA**
+### 4.1.PERSONAS E MAPAS DE EMPATIA
 
 As personas são ferramentas fundamentais para guiar o desenvolvimento de
 soluções mais alinhadas às necessidades reais dos usuários. Elas
@@ -203,13 +149,13 @@ as personas que orientaram o desenvolvimento deste projeto, destacando
 seus principais pontos de dor e como o sistema irá resolver esses
 desafios.
 
-![adas2](https://github.com/user-attachments/assets/c5e9fb31-4c52-40fa-822f-789d5ebae16a)
+<img src= "/Imagens/adas2.png">
 
-![adas3](https://github.com/user-attachments/assets/437cdd70-f911-48e4-8704-0aa56e4528c9)
+<img src= "/Imagens/adas3.png">
 
 
-**Mapas de empatia**
-![adas4](https://github.com/user-attachments/assets/12d3ebfe-6a5e-427f-9c77-6662abdc2ed4)
+### Mapas de empatia
+<img src= "/Imagens/MapaDeEmpatia1.png">
 
 Após o levantamento das personas, é essencial aprofundar a compreensão
 desses usuários para garantir que o produto entregue seja de qualidade e
@@ -219,7 +165,7 @@ soluções que realmente resolvam seus problemas e ofereçam uma
 experiência eficaz e satisfatória. Para isso, desenvolvemos mapas de
 empatia para cada uma das personas apresentadas:
 
-**5.IDENTIDADE VISUAL - SISTEMA**
+## 5.IDENTIDADE VISUAL - EMPRESA
 
 A identidade visual da Lanchonete Da Carminha foi desenvolvida com o
 intuito de **criar uma conexão direta entre o visual do aplicativo e os
@@ -233,9 +179,9 @@ clara e amigável**, ao mesmo tempo que refletem a tradição e o
 acolhimento da marca. Assim, a identidade visual reforça a **qualidade
 artesanal dos salgados e a confiança que a lanchonete construiu ao longo
 dos anos com seus clientes**.
-![adas5](https://github.com/user-attachments/assets/bd50b3de-1472-44a3-a6bd-dd9a9fc663d9)
+<img src= "/Imagens/adas5.png">
 
-**5.1.WIREFRAME**
+### 5.1.WIREFRAME
 
 O wireframe desenvolvido para o sistema de gerenciamento da Lanchonete
 Da Carminha teve como objetivo **delinear a estrutura visual e funcional
@@ -313,40 +259,36 @@ e refinamentos no design.
 
 Interface Inicial:
 
-![adas6](https://github.com/user-attachments/assets/a126ded8-a3a1-49b3-844a-16fa542108da)
+<img src= "/Imagens/PrototipoCel_01.png">
 
 Interface do carrinho e formas de pagamento:<html><br></html>
-![adas7](https://github.com/user-attachments/assets/b9878a32-46be-4314-b219-085365153e2c)
-![adas8](https://github.com/user-attachments/assets/b3bf194c-114f-4a89-935f-e5a14856dfb5)
-
+<img src= "/Imagens/PrototipoCel_02.png">
+<img src= "/Imagens/PrototipoCel_03.png">
 
 **Wireframe completo - Versão Computador:**
 
 Interface Inicial:<html><br></html>
-![adas9](https://github.com/user-attachments/assets/8593c54c-c416-421d-a528-0ef2ac6adc82)
-
+<img src= "/Imagens/PrototipoPC_01.png">
 Interface do carrinho e formas de pagamento:
 
-![adas10](https://github.com/user-attachments/assets/fa5b25ac-060f-4fea-b410-3ff77fef601b)
+<img src= "/Imagens/PrototipoPC_02.png">
 
-**5.2.PROTÓTIPO DE ALTA FIDELIDADE**
+### 5.2.PROTÓTIPO DE ALTA FIDELIDADE
 
 Utilizamos o Figma como ferramenta para criação deste protótipo para
 **tornar o Wireframe funcional e verificar correções** que seriam feitas
 para uma melhor experiência do usuário.
 
-- [[Protótipo de alta fidelidade
-  > (Celular)]{.underline}](https://www.figma.com/proto/99dnTB5dV1rzrPMmA1wqq6/Prot%C3%B3tipo?node-id=226-1133&node-type=frame&t=xVMpYs12HWpPS9RN-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+- [Protótipo de alta fidelidade (Celular)](https://www.figma.com/proto/99dnTB5dV1rzrPMmA1wqq6/Prot%C3%B3tipo?node-id=226-1133&node-type=frame&t=xVMpYs12HWpPS9RN-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
-- [[Protótipo de alta fidelidade
-  > (Computador)]{.underline}](https://www.figma.com/proto/99dnTB5dV1rzrPMmA1wqq6/Prot%C3%B3tipo?node-id=223-186&node-type=frame&t=sc8woxdXphHAgA5o-1&scaling=min-zoom&content-scaling=fixed&page-id=172%3A209)
+- [Protótipo de alta fidelidade (Computador)](https://www.figma.com/proto/99dnTB5dV1rzrPMmA1wqq6/Prot%C3%B3tipo?node-id=223-186&node-type=frame&t=sc8woxdXphHAgA5o-1&scaling=min-zoom&content-scaling=fixed&page-id=172%3A209)
 
 ***(Para que a experiência com o protótipo seja a melhor possível, ao
 entrar neste link no canto superior direito haverá um ícone para
 maximizar a tela, clique neste ícone para que o protótipo fique melhor
 utilizável).***
 
-**5.3.CONTINUIDADE DO PROJETO E APRESENTAÇÃO AO CLIENTE**
+### 5.3.CONTINUIDADE DO PROJETO E APRESENTAÇÃO AO CLIENTE
 
 Os próximos passos para a conclusão do projeto envolvem a apresentação
 detalhada do protótipo e a preparação de materiais explicativos para os
@@ -356,33 +298,19 @@ investidores.
 
 1.  **Vídeo Explicativo do Protótipo:**
 
-    - **Objetivo:** gravar um vídeo detalhado apresentando o protótipo
-      > do sistema, com uma demonstração completa de todas as
-      > funcionalidades e opções de navegação. O vídeo será
-      > disponibilizado ao cliente para que ele possa compreender como o
-      > sistema funcionará de ponta a ponta.
+    - **Objetivo:** gravar um vídeo detalhado apresentando o protótipo do sistema, com uma demonstração completa de todas as funcionalidades e opções de navegação. O vídeo será disponibilizado ao cliente para que ele possa compreender como o sistema funcionará de ponta a ponta.
 
-    - **Conteúdo:** o vídeo explicará a interface do usuário, a
-      > experiência de navegação, e a lógica por trás de cada
-      > funcionalidade, destacando como o protótipo se alinha aos
-      > requisitos definidos no relatório.
+    - **Conteúdo:** o vídeo explicará a interface do usuário, a experiência de navegação, e a lógica por trás de cada funcionalidade, destacando como o protótipo se alinha aos requisitos definidos no relatório.
 
-    - **[[Apresentação do
-      > Protótipo]{.underline}](https://drive.google.com/file/d/1tNClL53ounabVYKw7yDvW9kc81QnnzY4/view?usp=sharing).**
+    - **[Apresentação do Protótipo](https://drive.google.com/file/d/1tNClL53ounabVYKw7yDvW9kc81QnnzY4/view?usp=sharing).**
 
 2.  **Realização de Pitch para clientes, especialistas e investidores:**
 
-    - **Objetivo:** demonstrar de forma convincente como o software pode
-      > beneficiar diretamente todos os stakeholders (partes
-      > interessadas), incluindo clientes, funcionários e gestores,
-      > trazendo maior eficiência e organização para o negócio.
+    - **Objetivo:** demonstrar de forma convincente como o software pode beneficiar diretamente todos os stakeholders (partes interessadas), incluindo clientes, funcionários e gestores, trazendo maior eficiência e organização para o negócio.
 
-    - **Conteúdo:** durante o pitch, será reforçado como o sistema,
-      > quando implementado, poderá resolver problemas críticos
-      > relacionados ao controle e monitoramento de pedidos, eliminando
-      > falhas na gestão de processos internos.
+    - **Conteúdo:** durante o pitch, será reforçado como o sistema, quando implementado, poderá resolver problemas críticos relacionados ao controle e monitoramento de pedidos, eliminando falhas na gestão de processos internos.
 
-**6.CONCLUSÃO**
+## 6.CONCLUSÃO
 
 Com este projeto, concluímos o Projeto Integrador proposto como parte da
 disciplina de Design de Interação, sob a orientação da professora
@@ -397,11 +325,11 @@ negativo na experiência dos clientes durante horários de pico.
 Para isso, foram adotadas boas práticas no processo de desenvolvimento
 de software, ajustando-se às limitações da disciplina. As atividades
 foram organizadas por meio de sprints, com reuniões semanais
-([ATAs]{.mark}), análise de tarefas, especificação de requisitos,
+([ATAs](), análise de tarefas, especificação de requisitos,
 encontros regulares com stakeholders, além de avaliações constantes de
 usabilidade e comunicabilidade. O **trabalho em equipe** foi essencial,
-compreendendo a importância de cada etapa e função (CEO, Scrum Master,
-Analista de Sistemas, Product Owner e Designer), bem como a **relevância
+compreendendo a importância de cada etapa e função (CEO, *Scrum Master*,
+Analista de Sistemas, *Product Owner* e Designer), bem como a **relevância
 do esforço coletivo para a realização de um projeto sustentável**.
 
 Como resultado, o sistema proposto demonstrou ser uma **solução prática
@@ -415,30 +343,22 @@ significativo aumento na satisfação dos clientes.
 
 Este projeto foi desenvolvido pelos alunos:
 
-- Felipe Guimarães Gouveia, Estudante de Desenvolvimento de Software da
-  > UNIVIÇOSA.
-  > [[Linkedin]{.underline}](http://linkedin.com/in/felipe-guimar%C3%A3es-122456183)
-  > /
-  > [[[GitHub]{.underline}]{.mark}](https://github.com/FelipeGuimaraes1106)
+- Felipe Guimarães Gouveia, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
+  > [Linkedin](http://linkedin.com/in/felipe-guimar%C3%A3es-122456183)
+  > [GitHub](https://github.com/FelipeGuimaraes1106)
 
-- Luana Fialho da Silva, Estudante de Desenvolvimento de Software da
-  > UNIVIÇOSA.
-  > [[Linkedin]{.underline}](http://www.linkedin.com/in/luana-fialho) /
-  > [[[GitHub]{.underline}]{.mark}](https://github.com/luana-fialho)
+- Luana Fialho da Silva, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
+  > [Linkedin](http://www.linkedin.com/in/luana-fialho)
+  > [GitHub](https://github.com/luana-fialho)
 
-- João Henrique da Silva Oliveira Nunes Aguiar, Estudante de
-  > Desenvolvimento de Software da UNIVIÇOSA.
-  > [[Linkedin]{.underline}](http://www.linkedin.com/in/jo%C3%A3o-henrique-da-silva-oliveira-nunes-de-aguiar-b416a6335)
-  > /
-  > [[[GitHub]{.underline}]{.mark}](https://github.com/JoaoHenriqueAguiar)
+- João Henrique da Silva Oliveira Nunes Aguiar, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
+  > [Linkedin](http://www.linkedin.com/in/jo%C3%A3o-henrique-da-silva-oliveira-nunes-de-aguiar-b416a6335)
+  > [GitHub](https://github.com/JoaoHenriqueAguiar)
 
-- Sávio Angelo Ferreira, Estudante de Desenvolvimento de Software da
-  > UNIVIÇOSA.
-  > [[Linkedin]{.underline}](https://www.linkedin.com/in/s%C3%A1vio-angelo-ferreira-188374335/)
-  > / [[[GitHub]{.underline}]{.mark}](https://github.com/Savio-Ferreira)
+- Sávio Angelo Ferreira, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
+  > [Linkedin](https://www.linkedin.com/in/s%C3%A1vio-angelo-ferreira-188374335/)
+  > [GitHub](https://github.com/Savio-Ferreira)
 
-- Thiago de Paula Fernandes, Estudante de Desenvolvimento de Software da
-  > UNIVIÇOSA.
-  > [[Linkedin]{.underline}](http://www.linkedin.com/in/thiagopfernandes)
-  > /
-  > [[[GitHub]{.underline}]{.mark}](https://github.com/ThiagopFernandes01)
+- Thiago de Paula Fernandes, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
+  > [Linkedin](http://www.linkedin.com/in/thiagopfernandes)
+  > [GitHub](https://github.com/ThiagopFernandes01)
