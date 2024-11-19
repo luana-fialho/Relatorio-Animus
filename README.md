@@ -3,8 +3,7 @@
 **Estudo de Caso: Digitalização e automatização da encomenda de produtos
 na Lanchonete Da Carminha**
 
-![adas](https://github.com/user-attachments/assets/d8baed75-66ab-4f3e-92ba-9bec7b6afc77)
-
+<img src= "/Imagens/adas.png">
 
 **1.DESAFIO**
 
@@ -204,13 +203,13 @@ as personas que orientaram o desenvolvimento deste projeto, destacando
 seus principais pontos de dor e como o sistema irá resolver esses
 desafios.
 
-![adas2](https://github.com/user-attachments/assets/c5e9fb31-4c52-40fa-822f-789d5ebae16a)
+<img src= "/Imagens/adas2.png">
 
-![adas3](https://github.com/user-attachments/assets/437cdd70-f911-48e4-8704-0aa56e4528c9)
+<img src= "/Imagens/adas3.png">
 
 
 **Mapas de empatia**
-![adas4](https://github.com/user-attachments/assets/12d3ebfe-6a5e-427f-9c77-6662abdc2ed4)
+<img src= "/Imagens/adas4.png">
 
 Após o levantamento das personas, é essencial aprofundar a compreensão
 desses usuários para garantir que o produto entregue seja de qualidade e
@@ -234,7 +233,7 @@ clara e amigável**, ao mesmo tempo que refletem a tradição e o
 acolhimento da marca. Assim, a identidade visual reforça a **qualidade
 artesanal dos salgados e a confiança que a lanchonete construiu ao longo
 dos anos com seus clientes**.
-![adas5](https://github.com/user-attachments/assets/bd50b3de-1472-44a3-a6bd-dd9a9fc663d9)
+<img src= "/Imagens/adas5.png">
 
 **5.1.WIREFRAME**
 
@@ -314,21 +313,19 @@ e refinamentos no design.
 
 Interface Inicial:
 
-![adas6](https://github.com/user-attachments/assets/a126ded8-a3a1-49b3-844a-16fa542108da)
+<img src= "/Imagens/adas6.png">
 
 Interface do carrinho e formas de pagamento:<html><br></html>
-![adas7](https://github.com/user-attachments/assets/b9878a32-46be-4314-b219-085365153e2c)
-![adas8](https://github.com/user-attachments/assets/b3bf194c-114f-4a89-935f-e5a14856dfb5)
-
+<img src= "/Imagens/adas7.png">
+<img src= "/Imagens/adas8.png">
 
 **Wireframe completo - Versão Computador:**
 
 Interface Inicial:<html><br></html>
-![adas9](https://github.com/user-attachments/assets/8593c54c-c416-421d-a528-0ef2ac6adc82)
-
+<img src= "/Imagens/adas9.png">
 Interface do carrinho e formas de pagamento:
 
-![adas10](https://github.com/user-attachments/assets/fa5b25ac-060f-4fea-b410-3ff77fef601b)
+<img src= "/Imagens/adas10.png">
 
 **5.2.PROTÓTIPO DE ALTA FIDELIDADE**
 
