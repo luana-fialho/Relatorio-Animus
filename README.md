@@ -171,7 +171,8 @@ desafios.
 
 <img src= "/Imagens/adas2.png">
 
-<img src= "/Imagens/Persona_02">
+
+<img src="/Imagens/Persona_02.png">
 
 
 ### Mapas de empatia
