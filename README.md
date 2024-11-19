@@ -26,11 +26,23 @@ A falta de um sistema unificado também dificulta o controle e o monitoramento d
 pedidos para a Lanchonete Da Carminha proporcionaria diversas vantagens,
 tais como:
 
-- **Facilidade de acesso:** assim como grandes plataformas, como  Facebook e Twitter, utilizam aplicativos para melhorar a experiência do usuário, a implementação de um sistema próprio garantiria navegação rápida e intuitiva.
+**Facilidade de acesso:**
+  > Assim como plataformas do ramo, como
+  > [Jhon's Pizza](https://www.instagram.com/johnspizzaoficial/?hl=pt) e [Mais Pizza Delivey](https://pedir.delivery/app/maispedidosdelivery/menu),
+  > utilizam aplicativos para melhorar a experiência
+  > do usuário, a implementação de um sistema próprio garantiria
+  > navegação rápida e intuitiva.
 
-- **Fidelização de clientes:** o sistema pode ser configurado para coletar dados e mapear o comportamento dos clientes, permitindo a criação de campanhas personalizadas que aumentam a fidelidade e a retenção.
+**Fidelização de clientes:**
+  > O sistema pode ser configurado para coletar dados e mapear
+  > o comportamento dos clientes, permitindo a criação de
+  > campanhas personalizadas que aumentam a fidelidade e a
+  > retenção.
 
-- **Aumento da credibilidade e reconhecimento da marca:** um aplicativo próprio gera confiança nos consumidores e melhora a visibilidade no mercado, criando uma imagem mais sólida e confiável da empresa.
+**Aumento da credibilidade e reconhecimento da marca:**
+  > Um aplicativo próprio gera confiança nos consumidores
+  > e melhora a visibilidade no mercado, criando uma imagem
+  > mais sólida e confiável da empresa.
 
 Além disso, o uso de tecnologia para automação dos processos internos,
 como controle de estoque e geração de relatórios, pode **aumentar a
@@ -49,7 +61,7 @@ conforme indicado pela cliente. No entanto, há a possibilidade de que o
 aplicativo seja adotado também pelos habitantes das outras 12 cidades
 que compõem a região.
 
-Em uma análise mais precisa, baseada no repertório dos clientes do
+Em uma análise mais precisa, baseada no repertório dos usuários do
 estabelecimento, discutido com a proprietária da Lanchonete Da Carminha,
 os **principais perfis** encontrados são organizadores de eventos e
 responsáveis por lares que residem em Teixeiras ou Viçosa. Moradores que
@@ -60,13 +72,11 @@ necessidades de forma eficiente.
 ### 3.2.QUAIS SERIAM OS PROBLEMAS?
 
 Com base na identificação dos perfis, bem como dos potenciais usuários,
-estima-se que a maioria possua um **conhecimento técnico em informática
-de nível básico a intermediário**. Isso pode gerar alguns desafios
-relacionados à usabilidade, como dificuldade de navegação e entendimento
-de funcionalidades mais complexas. Esses fatores exigem que o
-desenvolvimento do aplicativo siga rigorosamente as melhores práticas de
-*UX/UI* (Experiência e Interface do Usuário), garantindo uma interface
-intuitiva, acessível e de fácil aprendizado.
+estima-se que a maioria possua um **conhecimento técnico em informática de nível básico a intermediário**, o que pode gerar desafios relacionados
+à usabilidade, como dificuldade de navegação e entendimento de funcionalidades
+mais complexas. Esses fatores exigem que o desenvolvimento do aplicativo
+siga rigorosamente as melhores práticas de UX/UI (Experiência e Interface
+do Usuário), garantindo uma interface intuitiva, acessível e de fácil aprendizado.
 
 Outro possível problema é a **diversidade de dispositivos utilizados
 pelos usuários**, que podem variar entre smartphones mais modernos e
@@ -81,9 +91,14 @@ em redes de baixa velocidade.
 
 ### 3.3.STORYTELLING
 
-Era uma tarde movimentada na Lanchonete Da Carminha. O sol forte de
-Teixeiras anunciava o início de mais um dia de pico, quando dezenas de
-clientes lotavam o pequeno espaço da lanchonete. Felipe, o atendente mais experiente, já estava acostumado com o frenesi, mas sabia que aquele horário sempre reservava surpresas. Na mesa do fundo, uma cliente fazia encomenda para um aniversário, enquanto na fila de espera outros discutiam quais salgados da prateleira escolheriam para comer. Tudo corria como de costume **até que o WhatsApp começou a disparar sem parar**.
+Era uma tarde de uma sexta-feira movimentada na Lanchonete Da Carminha. O sol forte da
+cidade marcava o fim de mais um dia típico de funcionamento do estabelecimento, que abre
+de segunda-feira a sábado, das 9h às 21h. Entre 17h e 19h, o horário de pico, dezenas
+de pessoas lotavam a lanchonete. Felipe, o atendente mais experiente, já estava
+acostumado com o frenesi, mas sabia que aquele período sempre reservava surpresas. Na mesa
+do fundo, uma pessoa fazia uma encomenda para um aniversário, enquanto na fila de espera
+outros discutiam quais salgados da prateleira escolheriam para comer. Tudo corria como
+de costume até que o **WhatsApp começou a disparar sem parar**.
 
 Mensagens e chamadas de novos pedidos pipocavam em sequência. **O número crescente de solicitações se misturava com as ordens feitas
 presencialmente**. Felipe, correndo entre a cozinha e o balcão, tentava
@@ -95,17 +110,15 @@ feito o pedido.
 
 O telefone tocava, mais uma mensagem chegava, e a fila não parava de
 crescer. O bloco de anotações de Felipe não tinha mais utilidade. A
-escrita apressada, inelegível para ele mesmo, começou a gerar uma
-confusão de informações. Clientes aguardavam mais do que o normal, e
+escrita apressada, inelegível para ele mesmo, começou a gerar uma confusão de informações. Muitas pessoas aguardavam mais do que o normal, e
 alguns saíam visivelmente irritados. **Ele sabia que a qualidade do
-atendimento estava comprometida, mas o que ele poderia fazer?**
+atendimento estava comprometida, mas o que ele poderia fazer?**
 
 Enquanto Felipe se desdobrava para não deixar ninguém esperando, **um
-erro grave aconteceu:** o pedido de salgados para um casamento foi
-trocado com o de um aniversário. O pior de tudo? Os clientes já haviam
+erro grave aconteceu:** o pedido de salgados para um casamento foi trocado com o de um aniversário. O pior de tudo? Ambos já haviam
 deixado o estabelecimento, sem deixar nenhum número para contato,
 confiando apenas no acordo verbal de que retornariam no dia combinado
-para buscar suas encomendas.
+para buscar suas encomendas.
 
 \"Nunca deveria ter acontecido isso!\", exclamou Carminha, desesperada
 ao perceber a gravidade da situação. Ela se sentia perdida, sem saber
@@ -124,31 +137,27 @@ observando o caos crescente. E Felipe, ainda que cansado, concordava
 silenciosamente. **O sistema de gerenciamento de pedidos não era mais
 uma opção. Era uma necessidade**.
 
-Com o **sistema de gerenciamento de encomendas**, Felipe e Carminha
-finalmente deixaram de se preocupar com as notificações incessantes no
-WhatsApp da lanchonete. Agora, todas as solicitações de pedidos chegavam
-diretamente pelo sistema, permitindo que ambos acompanhassem e
-organizassem tudo de forma clara e eficiente. O fluxo das atividades
-presenciais já não era interrompido por ligações, o que trouxe mais
-tranquilidade ao atendimento e aumentou significativamente a qualidade
-do serviço e a satisfação dos clientes.
+Com o **sistema de gerenciamento de pedidos** que será implementado,
+Felipe e Carminha esperam finalmente organizar as solicitações de maneira
+clara e eficiente. A ideia é que todas as solicitações de pedidos cheguem
+diretamente pelo sistema, eliminando a necessidade de lidar com bilhetes,
+anotações confusas e mensagens dispersas. Isso também deverá evitar a
+interrupção do fluxo de atividades presenciais por ligações, trazendo mais
+tranquilidade ao atendimento e melhorando a qualidade do serviço.
 
-Além disso, a interface simples e acessível do sistema foi amplamente
-elogiada. A facilidade de uso proporcionou uma **experiência
-descomplicada tanto para os funcionários quanto para os clientes**,
-tornando o processo de efetuar pedidos ágil e sem complicações. Isso não
-só otimizou a gestão interna, como também reforçou a fidelidade dos
-clientes, que apreciavam a nova abordagem prática e eficiente da
-Lanchonete Da Carminha.
+Além disso, a interface planejada para o sistema será simples e acessível,
+permitindo uma **experiência descomplicada tanto para os funcionários do
+estabelecimento quanto para os usuários**. A expectativa é que o novo processo
+de efetuar pedidos seja ágil e intuitivo, otimizando a gestão interna e
+fortalecendo a fidelidade dos clientes que valorizam uma abordagem prática
+e eficiente.
 
-Essa narrativa demonstra o quanto a implementação do software de
-gerenciamento de encomendas é capaz de contribuir para o **funcionamento
-sustentável de um empreendimento**. O sistema não apenas solucionou os
-problemas que antes geravam confusão e atrasos, mas também trouxe
-eficiência, organização e maior controle sobre o fluxo de pedidos,
-permitindo que a equipe se concentrasse em outras atividades essenciais,
-impulsionando o crescimento do negócio.
-
+A implementação do sistema será um passo essencial para o **funcionamento
+sustentável do negócio**. Espera-se que ele não só solucione os problemas
+que hoje geram confusões e atrasos, mas também traga eficiência, organização
+e maior controle sobre o fluxo de pedidos, permitindo que a equipe se
+concentre em outras atividades essenciais e impulsionando o crescimento da
+Lanchonete Da Carminha.
 
 ## 4.WHO?
 
@@ -181,12 +190,14 @@ empatia para cada uma das personas apresentadas:
 
 ## 5.IDENTIDADE VISUAL - EMPRESA
 
-A identidade visual da Lanchonete Da Carminha foi desenvolvida com o
-intuito de **criar uma conexão direta entre o visual do aplicativo e os
-produtos comercializados**. A escolha das cores principais se baseia em
-tons que remetem aos salgados, como o dourado e o marrom suave, que
-evocam a crocância e a cor dos produtos fritos, aproximando o usuário da
-experiência visual de consumo.
+A identidade visual do aplicativo desenvolvido para a Lanchonete Da Carminha
+foi projetada para **reforçar o reconhecimento da marca e criar uma experiência
+coesa e imersiva para o usuário**, conectando diretamente o design aos produtos
+comercializados. Esse cuidado contribui para a consolidação da padronização visual 
+da marca, ao mesmo tempo em que auxilia na construção de um imaginário atrativo e
+consistente para os usuários.A escolha das cores principais se baseia em tons que 
+remetem aos salgados, como o dourado e o marrom suave, que evocam a crocância e a 
+cor dos produtos fritos, aproximando o usuário da experiência visual de consumo.
 
 A tipografia e os ícones foram pensados para manter uma **comunicação
 clara e amigável**, ao mesmo tempo que refletem a tradição e o
