@@ -176,6 +176,7 @@ desafios.
 
 ### Mapas de empatia
 <img src= "/Imagens/MapaDeEmpatia1.png">
+<img src= "/Imagens/MapaDeEmpatia2.png">
 
 Após o levantamento das personas, é essencial aprofundar a compreensão
 desses usuários para garantir que o produto entregue seja de qualidade e
