@@ -12,36 +12,6 @@ Este estudo de caso busca idealizar e prototipar um sistema de software responsi
 ## 2.CONTEXTO
 
 
-A Lanchonete Da Carminha, tem nas encomendas de cento de salgados
-para eventos e festividades uma das suas principais fontes de lucro. No
-entanto, a **ausência de um sistema de gerenciamento** automatizado tem
-criado desafios que impactam negativamente a eficiência do atendimento e
-a satisfação dos clientes.
-
-Atualmente, os pedidos de encomenda são realizados via WhatsApp ---
-única plataforma digital disponível --- ou presencialmente, durante o
-horário de funcionamento. Esse processo é **suscetível a vários
-problemas**, como interrupções no fluxo de atendimento durante horários
-de pico e ruídos na coleta de informações devido à sobrecarga de
-trabalho. A falta de um sistema unificado também dificulta o controle e
-o monitoramento dos pedidos, o que pode ocasionar falhas na gestão dos
-processos internos.
-
-Hoje, não é segredo, muito menos exagero, dizer que os aplicativos de
-celulares já fazem parte do dia a dia das pessoas. A adoção de
-ferramentas digitais no empreendimento se tornou fundamental para o
-sucesso de empresas, especialmente em setores como alimentação e
-serviços. Segundo dados da [App
-Annie](https://www.digitalinformationworld.com/2022/01/app-annie-publishes-data-revealing.html),
-o tempo médio diário que as pessoas passam em aplicativos de celular
-cresceu 30% entre 2020 e 2021. Além disso, uma pesquisa da [Think with
-Google](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-app-marketing-insights/)
-revelou que 89% dos consumidores utilizam aplicativos móveis para
-interagir com empresas .
-
-Dessa forma, um sistema de gerenciamento de pedidos para a Lanchonete Da
-Carminha proporcionaria diversas vantagens, tais como:
-
 - **Facilidade de acesso:** assim como grandes plataformas, como  Facebook e Twitter, utilizam aplicativos para melhorar a experiência do usuário, a implementação de um sistema próprio garantiria navegação rápida e intuitiva.
 
 - **Fidelização de clientes:** o sistema pode ser configurado para coletar dados e mapear o comportamento dos clientes, permitindo a criação de campanhas personalizadas que aumentam a fidelidade e a retenção.
