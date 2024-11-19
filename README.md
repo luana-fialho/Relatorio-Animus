@@ -191,7 +191,7 @@ desafios.
 
 <img src= "/Imagens/adas2.png">
 
-<img src= "/Imagens/adas3.png">
+<img src= "/Imagens/_Pink and White Feminine Business Card .png">
 
 
 ### Mapas de empatia
