@@ -3,7 +3,7 @@
 **Estudo de Caso: Digitalização e automatização da encomenda de produtos
 na Lanchonete Da Carminha**
 
-<img src= "/Imagens/adas.png">
+<img src= "/Imagens/Logo.png">
 
 **1.DESAFIO**
 
@@ -209,7 +209,7 @@ desafios.
 
 
 **Mapas de empatia**
-<img src= "/Imagens/adas4.png">
+<img src= "/Imagens/MapaDeEmpatia1.png">
 
 Após o levantamento das personas, é essencial aprofundar a compreensão
 desses usuários para garantir que o produto entregue seja de qualidade e
@@ -313,19 +313,19 @@ e refinamentos no design.
 
 Interface Inicial:
 
-<img src= "/Imagens/adas6.png">
+<img src= "/Imagens/PrototipoCel_01.png">
 
 Interface do carrinho e formas de pagamento:<html><br></html>
-<img src= "/Imagens/adas7.png">
-<img src= "/Imagens/adas8.png">
+<img src= "/Imagens/PrototipoCel_02.png">
+<img src= "/Imagens/PrototipoCel_03.png">
 
 **Wireframe completo - Versão Computador:**
 
 Interface Inicial:<html><br></html>
-<img src= "/Imagens/adas9.png">
+<img src= "/Imagens/PrototipoPC_01.png">
 Interface do carrinho e formas de pagamento:
 
-<img src= "/Imagens/adas10.png">
+<img src= "/Imagens/PrototipoPC_02.png">
 
 **5.2.PROTÓTIPO DE ALTA FIDELIDADE**
 
