@@ -1,24 +1,20 @@
-**Termo de Requisitos de Alto Nível**
 
-**Estudo de Caso: Digitalização e automatização da encomenda de produtos
-na Lanchonete Da Carminha**
+# Termo de Requisitos de Alto Nível
+
+## Estudo de Caso: Digitalização e automatização da encomenda de produtos na Lanchonete Da Carminha
 
 <img src= "/Imagens/Logo.png">
 
-**1.DESAFIO**
+## 1.DESAFIO
 
 Este estudo de caso busca idealizar e prototipar um sistema de software
-responsivo, acessível tanto em smartphones quanto em computadores, capaz
-de gerenciar de forma eficiente os pedidos da Lanchonete Da Carminha. O
-desafio consiste na digitalização e centralização das solicitações de
-encomendas, tornando o processo mais ágil e organizado, a fim de
+responsivo, acessível tanto em *smartphones* quanto em computadores, capaz de gerenciar de forma eficiente os pedidos da Lanchonete Da Carminha. O desafio consiste na digitalização e centralização das solicitações de encomendas, tornando o processo mais ágil e organizado, a fim de
 melhorar a experiência tanto dos clientes quanto da gestão interna.
 
-**2.CONTEXTO**
+## 2.CONTEXTO
 
 
-A Lanchonete Da Carminha, localizada na Rua Antônio Moreira Barros, Nº
-10, no Centro de Teixeiras (MG), tem nas encomendas de cento de salgados
+A Lanchonete Da Carminha, tem nas encomendas de cento de salgados
 para eventos e festividades uma das suas principais fontes de lucro. No
 entanto, a **ausência de um sistema de gerenciamento** automatizado tem
 criado desafios que impactam negativamente a eficiência do atendimento e
@@ -68,9 +64,9 @@ produtividade e otimizar a gestão da lanchonete**. Soluções como essas
 são essenciais para manter a competitividade e se adaptar às demandas do
 consumidor moderno, que busca conveniência e agilidade no atendimento.
 
-**3.WHY?**
+## 3.WHY?
 
-**3.1.QUEM UTILIZARÁ O SISTEMA?**
+### 3.1.QUEM UTILIZARÁ O SISTEMA?
 
 Considerando o contexto da Zona da Mata de Minas Gerais, com foco na
 microrregião de Viçosa, os **potenciais usuários** do sistema incluem
@@ -87,7 +83,7 @@ organizam eventos, como aniversários, casamentos ou confraternizações,
 tendem a buscar soluções práticas e saborosas que atendam suas
 necessidades de forma eficiente.
 
-**3.2.QUAIS SERIAM OS PROBLEMAS?**
+### 3.2.QUAIS SERIAM OS PROBLEMAS?
 
 Com base na identificação dos perfis, bem como dos potenciais usuários,
 estima-se que a maioria possua um **conhecimento técnico em informática
@@ -95,7 +91,7 @@ de nível básico a intermediário**. Isso pode gerar alguns desafios
 relacionados à usabilidade, como dificuldade de navegação e entendimento
 de funcionalidades mais complexas. Esses fatores exigem que o
 desenvolvimento do aplicativo siga rigorosamente as melhores práticas de
-UX/UI (Experiência e Interface do Usuário), garantindo uma interface
+*UX/UI* (Experiência e Interface do Usuário), garantindo uma interface
 intuitiva, acessível e de fácil aprendizado.
 
 Outro possível problema é a **diversidade de dispositivos utilizados
@@ -109,20 +105,13 @@ região, o que reforça a necessidade de otimização de performance para
 minimizar o consumo de dados e garantir o funcionamento adequado mesmo
 em redes de baixa velocidade.
 
-**3.3.STORYTELLING**
+### 3.3.STORYTELLING
 
 Era uma tarde movimentada na Lanchonete Da Carminha. O sol forte de
 Teixeiras anunciava o início de mais um dia de pico, quando dezenas de
-clientes lotavam o pequeno espaço na esquina da Rua Antônio Moreira
-Barros. Felipe, o atendente mais experiente, já estava acostumado com o
-frenesi, mas sabia que aquele horário sempre reservava surpresas. Na
-mesa do fundo, uma cliente fazia encomenda para um aniversário, enquanto
-na fila de espera outros discutiam quais salgados da prateleira
-escolheriam para comer. Tudo corria como de costume **até que o WhatsApp
-começou a disparar sem parar**.
+clientes lotavam o pequeno espaço da lanchonete. Felipe, o atendente mais experiente, já estava acostumado com o frenesi, mas sabia que aquele horário sempre reservava surpresas. Na mesa do fundo, uma cliente fazia encomenda para um aniversário, enquanto na fila de espera outros discutiam quais salgados da prateleira escolheriam para comer. Tudo corria como de costume **até que o WhatsApp começou a disparar sem parar**.
 
-Mensagens e chamadas de novos pedidos pipocavam em sequência. **O número
-crescente de solicitações se misturava com as ordens feitas
+Mensagens e chamadas de novos pedidos pipocavam em sequência. **O número crescente de solicitações se misturava com as ordens feitas
 presencialmente**. Felipe, correndo entre a cozinha e o balcão, tentava
 gerenciar todas as demandas, mas algo estava saindo de controle. \"Você
 confirmou aquele pedido de cento de coxinhas?\", questionou Carminha, a
@@ -144,11 +133,11 @@ deixado o estabelecimento, sem deixar nenhum número para contato,
 confiando apenas no acordo verbal de que retornariam no dia combinado
 para buscar suas encomendas.
 
-\"Isso nunca deveria ter acontecido!\", exclamou Carminha, desesperada
+\"Nunca deveria ter acontecido isso!\", exclamou Carminha, desesperada
 ao perceber a gravidade da situação. Ela se sentia perdida, sem saber
 por onde começar a resolver o problema. O **caos de gerenciar tudo
 manualmente estava cobrando seu preço**, e a falta de controle sobre os
-pedidos só tornava as coisas mais difíceis. Jonas, mesmo dando seu
+pedidos só tornava as coisas mais difíceis. Felipe, mesmo dando seu
 melhor, começava a perceber que o processo, repleto de falhas e
 improvisos, estava desmoronando lentamente, como uma barragem prestes a
 ruir.  
@@ -186,13 +175,10 @@ eficiência, organização e maior controle sobre o fluxo de pedidos,
 permitindo que a equipe se concentrasse em outras atividades essenciais,
 impulsionando o crescimento do negócio.
 
-***// Em um mercado competitivo, o uso de tecnologia não é apenas uma
-vantagem --- é uma necessidade para garantir a excelência e a
-sustentabilidade do estabelecimento.***
 
-**4.WHO?**
+## 4.WHO?
 
-**4.1.PERSONAS E MAPAS DE EMPATIA**
+### 4.1.PERSONAS E MAPAS DE EMPATIA
 
 As personas são ferramentas fundamentais para guiar o desenvolvimento de
 soluções mais alinhadas às necessidades reais dos usuários. Elas
@@ -208,7 +194,7 @@ desafios.
 <img src= "/Imagens/adas3.png">
 
 
-**Mapas de empatia**
+### Mapas de empatia
 <img src= "/Imagens/MapaDeEmpatia1.png">
 
 Após o levantamento das personas, é essencial aprofundar a compreensão
@@ -219,7 +205,7 @@ soluções que realmente resolvam seus problemas e ofereçam uma
 experiência eficaz e satisfatória. Para isso, desenvolvemos mapas de
 empatia para cada uma das personas apresentadas:
 
-**5.IDENTIDADE VISUAL - SISTEMA**
+## 5.IDENTIDADE VISUAL - EMPRESA
 
 A identidade visual da Lanchonete Da Carminha foi desenvolvida com o
 intuito de **criar uma conexão direta entre o visual do aplicativo e os
@@ -235,7 +221,7 @@ artesanal dos salgados e a confiança que a lanchonete construiu ao longo
 dos anos com seus clientes**.
 <img src= "/Imagens/adas5.png">
 
-**5.1.WIREFRAME**
+### 5.1.WIREFRAME
 
 O wireframe desenvolvido para o sistema de gerenciamento da Lanchonete
 Da Carminha teve como objetivo **delinear a estrutura visual e funcional
@@ -327,7 +313,7 @@ Interface do carrinho e formas de pagamento:
 
 <img src= "/Imagens/PrototipoPC_02.png">
 
-**5.2.PROTÓTIPO DE ALTA FIDELIDADE**
+### 5.2.PROTÓTIPO DE ALTA FIDELIDADE
 
 Utilizamos o Figma como ferramenta para criação deste protótipo para
 **tornar o Wireframe funcional e verificar correções** que seriam feitas
@@ -344,7 +330,7 @@ entrar neste link no canto superior direito haverá um ícone para
 maximizar a tela, clique neste ícone para que o protótipo fique melhor
 utilizável).***
 
-**5.3.CONTINUIDADE DO PROJETO E APRESENTAÇÃO AO CLIENTE**
+### 5.3.CONTINUIDADE DO PROJETO E APRESENTAÇÃO AO CLIENTE
 
 Os próximos passos para a conclusão do projeto envolvem a apresentação
 detalhada do protótipo e a preparação de materiais explicativos para os
@@ -380,7 +366,7 @@ investidores.
       > relacionados ao controle e monitoramento de pedidos, eliminando
       > falhas na gestão de processos internos.
 
-**6.CONCLUSÃO**
+## 6.CONCLUSÃO
 
 Com este projeto, concluímos o Projeto Integrador proposto como parte da
 disciplina de Design de Interação, sob a orientação da professora
@@ -395,11 +381,11 @@ negativo na experiência dos clientes durante horários de pico.
 Para isso, foram adotadas boas práticas no processo de desenvolvimento
 de software, ajustando-se às limitações da disciplina. As atividades
 foram organizadas por meio de sprints, com reuniões semanais
-([ATAs]{.mark}), análise de tarefas, especificação de requisitos,
+([ATAs](), análise de tarefas, especificação de requisitos,
 encontros regulares com stakeholders, além de avaliações constantes de
 usabilidade e comunicabilidade. O **trabalho em equipe** foi essencial,
-compreendendo a importância de cada etapa e função (CEO, Scrum Master,
-Analista de Sistemas, Product Owner e Designer), bem como a **relevância
+compreendendo a importância de cada etapa e função (CEO, *Scrum Master*,
+Analista de Sistemas, *Product Owner* e Designer), bem como a **relevância
 do esforço coletivo para a realização de um projeto sustentável**.
 
 Como resultado, o sistema proposto demonstrou ser uma **solução prática
@@ -413,30 +399,22 @@ significativo aumento na satisfação dos clientes.
 
 Este projeto foi desenvolvido pelos alunos:
 
-- Felipe Guimarães Gouveia, Estudante de Desenvolvimento de Software da
-  > UNIVIÇOSA.
-  > [[Linkedin]{.underline}](http://linkedin.com/in/felipe-guimar%C3%A3es-122456183)
-  > /
-  > [[[GitHub]{.underline}]{.mark}](https://github.com/FelipeGuimaraes1106)
+- Felipe Guimarães Gouveia, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
+  > [Linkedin](http://linkedin.com/in/felipe-guimar%C3%A3es-122456183)
+  > [GitHub](https://github.com/FelipeGuimaraes1106)
 
-- Luana Fialho da Silva, Estudante de Desenvolvimento de Software da
-  > UNIVIÇOSA.
-  > [[Linkedin]{.underline}](http://www.linkedin.com/in/luana-fialho) /
-  > [[[GitHub]{.underline}]{.mark}](https://github.com/luana-fialho)
+- Luana Fialho da Silva, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
+  > [Linkedin](http://www.linkedin.com/in/luana-fialho)
+  > [GitHub](https://github.com/luana-fialho)
 
-- João Henrique da Silva Oliveira Nunes Aguiar, Estudante de
-  > Desenvolvimento de Software da UNIVIÇOSA.
-  > [[Linkedin]{.underline}](http://www.linkedin.com/in/jo%C3%A3o-henrique-da-silva-oliveira-nunes-de-aguiar-b416a6335)
-  > /
-  > [[[GitHub]{.underline}]{.mark}](https://github.com/JoaoHenriqueAguiar)
+- João Henrique da Silva Oliveira Nunes Aguiar, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
+  > [[Linkedin]](http://www.linkedin.com/in/jo%C3%A3o-henrique-da-silva-oliveira-nunes-de-aguiar-b416a6335)
+  > [GitHub](https://github.com/JoaoHenriqueAguiar)
 
-- Sávio Angelo Ferreira, Estudante de Desenvolvimento de Software da
-  > UNIVIÇOSA.
-  > [[Linkedin]{.underline}](https://www.linkedin.com/in/s%C3%A1vio-angelo-ferreira-188374335/)
-  > / [[[GitHub]{.underline}]{.mark}](https://github.com/Savio-Ferreira)
+- Sávio Angelo Ferreira, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
+  > [Linkedin](https://www.linkedin.com/in/s%C3%A1vio-angelo-ferreira-188374335/)
+  > [GitHub](https://github.com/Savio-Ferreira)
 
-- Thiago de Paula Fernandes, Estudante de Desenvolvimento de Software da
-  > UNIVIÇOSA.
-  > [[Linkedin]{.underline}](http://www.linkedin.com/in/thiagopfernandes)
-  > /
-  > [[[GitHub]{.underline}]{.mark}](https://github.com/ThiagopFernandes01)
+- Thiago de Paula Fernandes, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
+  > [Linkedin](http://www.linkedin.com/in/thiagopfernandes)
+  > [GitHub](https://github.com/ThiagopFernandes01)
