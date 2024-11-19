@@ -11,6 +11,20 @@ Este estudo de caso busca idealizar e prototipar um sistema de software responsi
 
 ## 2.CONTEXTO
 
+Hoje, não é segredo, muito menos exagero, dizer que os aplicativos de celulares
+já fazem parte do dia a dia das pessoas. A adoção de ferramentas digitais no
+empreendimento se tornou fundamental para o sucesso de empresas, especialmente em setores como alimentação e serviços. Segundo dados da [App Annie](https://www.digitalinformationworld.com/2022/01/app-annie-publishes-data-revealing.html), o tempo médio diário que as pessoas passam em aplicativos de celular cresceu 30% entre 2020 e 2021. Além disso, uma pesquisa da [Think with Google](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-app-marketing-insights/) revelou que 89% dos consumidores utilizam aplicativos móveis para interagir com empresas.
+
+As encomendas de cento de salgados para eventos e festividades são uma das
+principais fontes de lucro da Lanchonete Da Carminha. Porém, a ausência de
+um sistema automatizado tem gerado desafios, como interrupções no atendimento
+durante horários de pico, falhas na coleta de informações e dificuldade no
+controle e monitoramento dos pedidos, comprometendo a eficiência e a satisfação
+dos clientes.
+
+A falta de um sistema unificado também dificulta o controle e o monitoramento dos pedidos, o que pode ocasionar falhas na gestão dos processos internos. Dessa forma, um sistema de gerenciamento de
+pedidos para a Lanchonete Da Carminha proporcionaria diversas vantagens,
+tais como:
 
 - **Facilidade de acesso:** assim como grandes plataformas, como  Facebook e Twitter, utilizam aplicativos para melhorar a experiência do usuário, a implementação de um sistema próprio garantiria navegação rápida e intuitiva.
 
