@@ -18,11 +18,9 @@ empreendimento se tornou fundamental para o sucesso de empresas, especialmente e
 As encomendas de cento de salgados para eventos e festividades são uma das
 principais fontes de lucro da Lanchonete Da Carminha. Porém, a ausência de
 um sistema automatizado tem gerado desafios, como interrupções no atendimento
-durante horários de pico, falhas na coleta de informações e dificuldade no
+durante horários de pico (das 17h às 19h), falhas na coleta de informações e dificuldade no
 controle e monitoramento dos pedidos, comprometendo a eficiência e a satisfação
-dos clientes.
-
-A falta de um sistema unificado também dificulta o controle e o monitoramento dos pedidos, o que pode ocasionar falhas na gestão dos processos internos. Dessa forma, um sistema de gerenciamento de
+dos clientes. Dessa forma, um sistema de gerenciamento de
 pedidos para a Lanchonete Da Carminha proporcionaria diversas vantagens,
 tais como:
 
@@ -36,8 +34,7 @@ tais como:
 **Fidelização de clientes:**
   > O sistema pode ser configurado para coletar dados e mapear
   > o comportamento dos clientes, permitindo a criação de
-  > campanhas personalizadas que aumentam a fidelidade e a
-  > retenção.
+  > campanhas personalizadas que aumentam a fidelidade e a retenção.
 
 **Aumento da credibilidade e reconhecimento da marca:**
   > Um aplicativo próprio gera confiança nos consumidores
@@ -75,11 +72,11 @@ Com base na identificação dos perfis, bem como dos potenciais usuários,
 estima-se que a maioria possua um **conhecimento técnico em informática de nível básico a intermediário**, o que pode gerar desafios relacionados
 à usabilidade, como dificuldade de navegação e entendimento de funcionalidades
 mais complexas. Esses fatores exigem que o desenvolvimento do aplicativo
-siga rigorosamente as melhores práticas de UX/UI (Experiência e Interface
+siga rigorosamente as melhores práticas de *UX/UI* (Experiência e Interface
 do Usuário), garantindo uma interface intuitiva, acessível e de fácil aprendizado.
 
 Outro possível problema é a **diversidade de dispositivos utilizados
-pelos usuários**, que podem variar entre smartphones mais modernos e
+pelos usuários**, que podem variar entre *smartphones* mais modernos e
 modelos antigos, o que demanda uma aplicação responsiva e eficiente em
 diferentes plataformas e tamanhos de tela.
 
@@ -94,7 +91,7 @@ em redes de baixa velocidade.
 Era uma tarde de uma sexta-feira movimentada na Lanchonete Da Carminha. O sol forte da
 cidade marcava o fim de mais um dia típico de funcionamento do estabelecimento, que abre
 de segunda-feira a sábado, das 9h às 21h. Entre 17h e 19h, o horário de pico, dezenas
-de pessoas lotavam a lanchonete. Felipe, o atendente mais experiente, já estava
+de pessoas lotam a lanchonete. Felipe, o atendente mais experiente, já estava
 acostumado com o frenesi, mas sabia que aquele período sempre reservava surpresas. Na mesa
 do fundo, uma pessoa fazia uma encomenda para um aniversário, enquanto na fila de espera
 outros discutiam quais salgados da prateleira escolheriam para comer. Tudo corria como
@@ -110,7 +107,7 @@ feito o pedido.
 
 O telefone tocava, mais uma mensagem chegava, e a fila não parava de
 crescer. O bloco de anotações de Felipe não tinha mais utilidade. A
-escrita apressada, inelegível para ele mesmo, começou a gerar uma confusão de informações. Muitas pessoas aguardavam mais do que o normal, e
+escrita apressada, inelegível para ele mesmo, começou a gerar uma confusão de informações. Muitas pessoas aguardavam mais do que o normal (acima de 15 minutos), e
 alguns saíam visivelmente irritados. **Ele sabia que a qualidade do
 atendimento estava comprometida, mas o que ele poderia fazer?**
 
@@ -135,7 +132,7 @@ organizar tudo sem depender de bilhetes, anotações e mensagens
 confusas\... talvez pudéssemos evitar isso no futuro\", pensou ela,
 observando o caos crescente. E Felipe, ainda que cansado, concordava
 silenciosamente. **O sistema de gerenciamento de pedidos não era mais
-uma opção. Era uma necessidade**.
+uma opção, era uma necessidade**.
 
 Com o **sistema de gerenciamento de pedidos** que será implementado,
 Felipe e Carminha esperam finalmente organizar as solicitações de maneira
@@ -168,7 +165,7 @@ soluções mais alinhadas às necessidades reais dos usuários. Elas
 representam perfis fictícios, mas baseados em dados e comportamentos de
 usuários típicos, permitindo uma visão clara dos desafios, expectativas
 e objetivos de quem vai utilizar o sistema. A seguir, são apresentadas
-as personas que orientaram o desenvolvimento deste projeto, destacando
+as personas fictícias que orientaram o desenvolvimento deste projeto, destacando
 seus principais pontos de dor e como o sistema irá resolver esses
 desafios.
 
@@ -182,7 +179,7 @@ desafios.
 
 Após o levantamento das personas, é essencial aprofundar a compreensão
 desses usuários para garantir que o produto entregue seja de qualidade e
-atenda exatamente às suas necessidades. Isso envolve analisar seus
+atenda exatamente às suas necessidades. Tal processo envolve analisar seus
 comportamentos, dores, expectativas e motivações, permitindo criar
 soluções que realmente resolvam seus problemas e ofereçam uma
 experiência eficaz e satisfatória. Para isso, desenvolvemos mapas de
@@ -212,8 +209,7 @@ O wireframe desenvolvido para o sistema de gerenciamento da Lanchonete
 Da Carminha teve como objetivo **delinear a estrutura visual e funcional
 da interface**, seguindo os requisitos funcionais e não funcionais
 definidos em conjunto com o cliente. Essas diretrizes foram detalhadas
-no [[Relatório de Requisitos de Alto
-Nível]{.underline}](https://drive.google.com/file/d/1meUePSfUTvfPofdZQQscJHWof1wMx8iu/view?usp=sharing).
+no [Relatório de Requisitos de Alto Nível](https://drive.google.com/file/d/1meUePSfUTvfPofdZQQscJHWof1wMx8iu/view?usp=sharing).
 
 Assim, o esboço detalhado foi elaborado com o propósito de ser um
 protótipo de baixo para médio nível com o intuito de **detalhar a
@@ -221,64 +217,39 @@ experiência do usuário (UX)**, permitindo que todas as funcionalidades
 essenciais sejam **claramente dispostas**, facilitando futuras melhorias
 e refinamentos no design.
 
-
 **Principais telas e suas respectivas funcionalidades:**
 
-- Tela Inicial: A primeira interação do usuário ocorre na tela inicial,
-  > onde ele pode escolher o **tamanho do salgado que deseja
-  > encomendar**. O sistema oferece duas categorias:
-
+- Tela Inicial: A primeira interação do usuário ocorre na tela inicial, onde ele pode escolher o **tamanho do salgado que deseja encomendar**. O sistema oferece duas categorias:
   - Salgados Tamanho Festa: opção de salgados fritos ou assados.
-
   - Salgados Tamanho Mini: salgados fritos ou congelados.
 
-- Cada uma dessas opções é apresentada de forma destacada, permitindo
-  > que o usuário tenha uma visão clara e intuitiva das possibilidades.
-  > O design segue princípios de UI centrados na simplicidade e no fácil
-  > entendimento.
+Cada uma dessas opções é apresentada de forma destacada, permitindo que o usuário tenha uma visão clara e intuitiva das possibilidades. O design segue princípios de UI centrados na simplicidade e no fácil entendimento.
 
-- Tela de Produtos: após a seleção da categoria, o usuário será
-  > direcionado para a tela de produtos, que exibirá apenas os itens
-  > disponíveis na categoria escolhida. Cada item é acompanhado de:
+- Tela de Produtos: Após a seleção da categoria, o usuário será direcionado para a tela de produtos, que exibirá apenas os itens disponíveis na categoria escolhida. Cada item é acompanhado de:
 
   - **Imagem** do produto;
-
+  
   - **Nome** do produto e descrição curta;
-
+    
   - **Preço**;
+    
+  - **Botões de** **adição e subtração de quantidade**: permitem ao usuário aumentar ou diminuir a quantidade de itens de forma dinâmica e intuitiva;
+    
+  - **Botão de adicionar ao carrinho**: facilita o processo de compra, mantendo a simplicidade e a fluidez da navegação.
 
-  - **Botões de** **adição e subtração de quantidade**: permitem ao
-    > usuário aumentar ou diminuir a quantidade de itens de forma
-    > dinâmica e intuitiva;
+Também foram incluídas opções para **menu, pesquisa de produtos e acesso ao carrinho**, com ícones visíveis e de fácil acesso, sem sobrecarregar a interface.
 
-  - **Botão de adicionar ao carrinho**: facilita o processo de compra,
-    > mantendo a simplicidade e a fluidez da navegação.
+- Tela do Carrinho de Compras: o carrinho de compras foi projetado para fornecer um resumo claro e preciso dos itens selecionados. Nele, o usuário encontrará:
 
-- Também foram incluídas opções para **menu, pesquisa de produtos e
-  > acesso ao carrinho**, com ícones visíveis e de fácil acesso, sem
-  > sobrecarregar a interface.
+  - **Resumo dos produtos escolhidos**: exibe o nome, quantidade e preço de cada item;
 
-- Tela do Carrinho de Compras: o carrinho de compras foi projetado para
-  > fornecer um resumo claro e preciso dos itens selecionados. Nele, o
-  > usuário encontrará:
+  - **Total do pedido**: calculado automaticamente à medida que novos itens são adicionados ou removidos;
 
-  - **Resumo dos produtos escolhidos**: exibe o nome, quantidade e preço
-    > de cada item;
-
-  - **Total do pedido**: calculado automaticamente à medida que novos
-    > itens são adicionados ou removidos;
-
-  - **Formas de pagamento**: uma área para o cliente selecionar entre
-    > opções como pagamento via cartão, boleto ou outros métodos
-    > disponíveis. Cada método de pagamento é acompanhado de ícones
-    > facilmente reconhecíveis, facilitando a navegação e escolha do
-    > usuário.
+  - **Formas de pagamento**: uma área para o cliente selecionar entre opções como pagamento via cartão, boleto ou outros métodos disponíveis. Cada método de pagamento é acompanhado de ícones facilmente reconhecíveis, facilitando a navegação e escolha do usuário.
 
 <!-- -->
 
-- Campo para observações: nesta área, o cliente pode inserir instruções
-  > específicas, como preferências de entrega ou detalhes adicionais
-  > sobre os produtos.
+- Campo para observações: nesta área, o cliente pode inserir instruções específicas, como preferências de entrega ou detalhes adicionais sobre os produtos.
 
 **Wireframe completo - Versão Celular:**
 
@@ -286,7 +257,8 @@ Interface Inicial:
 
 <img src= "/Imagens/PrototipoCel_01.png">
 
-Interface do carrinho e formas de pagamento:<html><br></html>
+Interface do carrinho e formas de pagamento:
+<html><br></html>
 <img src= "/Imagens/PrototipoCel_02.png">
 <img src= "/Imagens/PrototipoCel_03.png">
 
@@ -294,8 +266,8 @@ Interface do carrinho e formas de pagamento:<html><br></html>
 
 Interface Inicial:<html><br></html>
 <img src= "/Imagens/PrototipoPC_01.png">
-Interface do carrinho e formas de pagamento:
 
+Interface do carrinho e formas de pagamento:
 <img src= "/Imagens/PrototipoPC_02.png">
 
 ### 5.2.PROTÓTIPO DE ALTA FIDELIDADE
@@ -313,27 +285,25 @@ entrar neste link no canto superior direito haverá um ícone para
 maximizar a tela, clique neste ícone para que o protótipo fique melhor
 utilizável).***
 
-### 5.3.CONTINUIDADE DO PROJETO E APRESENTAÇÃO AO CLIENTE
+### 5.3.APRESENTAÇÃO AO CLIENTE
 
-Os próximos passos para a conclusão do projeto envolvem a apresentação
-detalhada do protótipo e a preparação de materiais explicativos para os
-stakeholders envolvidos. Para isso, será desenvolvido um **vídeo
-demonstrativo e a programação de Pitch** para clientes, especialistas e
-investidores.
+1.**Realização de Pitch e teste de usabilidade:**
 
-1.  **Vídeo Explicativo do Protótipo:**
+Durante a fase de testes, foi realizado um teste de usabilidade com a
+proprietária, Carminha, para avaliar a **facilidade de uso e a eficácia do
+protótipo desenvolvido**. O teste consistiu em uma sessão em que a cliente
+explorou o site e realizou a simulação de pedidos, desde a seleção dos itens
+até a confirmação do pedido. Os resultados foram positivos, com Carminha
+destacando a facilidade de navegação, a clareza das informações
+apresentadas e a rapidez do processo. Feedbacks adicionais incluíram elogios
+à organização da interface e à funcionalidade intuitiva, o que proporcionou uma
+experiência de usuário satisfatória.
 
-    - **Objetivo:** gravar um vídeo detalhado apresentando o protótipo do sistema, com uma demonstração completa de todas as funcionalidades e opções de navegação. O vídeo será disponibilizado ao cliente para que ele possa compreender como o sistema funcionará de ponta a ponta.
+2.**Vídeo Explicativo do Protótipo:**
 
-    - **Conteúdo:** o vídeo explicará a interface do usuário, a experiência de navegação, e a lógica por trás de cada funcionalidade, destacando como o protótipo se alinha aos requisitos definidos no relatório.
+Também foi elaborado um vídeo detalhado apresentando o protótipo do sistema, com uma demonstração completa de todas as funcionalidades e opções de navegação. O vídeo foi disponibilizado à cliente.
 
-    - **[Apresentação do Protótipo](https://drive.google.com/file/d/1tNClL53ounabVYKw7yDvW9kc81QnnzY4/view?usp=sharing).**
-
-2.  **Realização de Pitch para clientes, especialistas e investidores:**
-
-    - **Objetivo:** demonstrar de forma convincente como o software pode beneficiar diretamente todos os stakeholders (partes interessadas), incluindo clientes, funcionários e gestores, trazendo maior eficiência e organização para o negócio.
-
-    - **Conteúdo:** durante o pitch, será reforçado como o sistema, quando implementado, poderá resolver problemas críticos relacionados ao controle e monitoramento de pedidos, eliminando falhas na gestão de processos internos.
+- [Apresentação do Protótipo](https://drive.google.com/file/d/1tNClL53ounabVYKw7yDvW9kc81QnnzY4/view?usp=sharing)
 
 ## 6.CONCLUSÃO
 
@@ -349,8 +319,7 @@ negativo na experiência dos clientes durante horários de pico.
 
 Para isso, foram adotadas boas práticas no processo de desenvolvimento
 de software, ajustando-se às limitações da disciplina. As atividades
-foram organizadas por meio de sprints, com reuniões semanais
-([ATAs](), análise de tarefas, especificação de requisitos,
+foram organizadas por meio de sprints, com reuniões semanais, análise de tarefas, especificação de requisitos,
 encontros regulares com stakeholders, além de avaliações constantes de
 usabilidade e comunicabilidade. O **trabalho em equipe** foi essencial,
 compreendendo a importância de cada etapa e função (CEO, *Scrum Master*,
