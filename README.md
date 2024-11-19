@@ -7,9 +7,7 @@
 
 ## 1.DESAFIO
 
-Este estudo de caso busca idealizar e prototipar um sistema de software
-responsivo, acessível tanto em *smartphones* quanto em computadores, capaz de gerenciar de forma eficiente os pedidos da Lanchonete Da Carminha. O desafio consiste na digitalização e centralização das solicitações de encomendas, tornando o processo mais ágil e organizado, a fim de
-melhorar a experiência tanto dos clientes quanto da gestão interna.
+Este estudo de caso busca idealizar e prototipar um sistema de software responsivo, acessível tanto em *smartphones* quanto em computadores, capaz de gerenciar de forma eficiente os pedidos da Lanchonete Da Carminha. O desafio consiste na digitalização e centralização das solicitações de encomendas, tornando o processo mais ágil e organizado, a fim de melhorar a experiência tanto dos clientes quanto da gestão interna.
 
 ## 2.CONTEXTO
 
@@ -33,30 +31,22 @@ Hoje, não é segredo, muito menos exagero, dizer que os aplicativos de
 celulares já fazem parte do dia a dia das pessoas. A adoção de
 ferramentas digitais no empreendimento se tornou fundamental para o
 sucesso de empresas, especialmente em setores como alimentação e
-serviços. Segundo dados da [*[App
-Annie]{.underline}*](https://www.digitalinformationworld.com/2022/01/app-annie-publishes-data-revealing.html),
+serviços. Segundo dados da [App
+Annie](https://www.digitalinformationworld.com/2022/01/app-annie-publishes-data-revealing.html),
 o tempo médio diário que as pessoas passam em aplicativos de celular
-cresceu 30% entre 2020 e 2021. Além disso, uma pesquisa da [*[Think with
-Google]{.underline}*](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-app-marketing-insights/)
+cresceu 30% entre 2020 e 2021. Além disso, uma pesquisa da [Think with
+Google](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-app-marketing-insights/)
 revelou que 89% dos consumidores utilizam aplicativos móveis para
 interagir com empresas .
 
 Dessa forma, um sistema de gerenciamento de pedidos para a Lanchonete Da
 Carminha proporcionaria diversas vantagens, tais como:
 
-- **Facilidade de acesso:** assim como grandes plataformas, como
-  > Facebook e Twitter, utilizam aplicativos para melhorar a experiência
-  > do usuário, a implementação de um sistema próprio garantiria
-  > navegação rápida e intuitiva.
+- **Facilidade de acesso:** assim como grandes plataformas, como  Facebook e Twitter, utilizam aplicativos para melhorar a experiência do usuário, a implementação de um sistema próprio garantiria navegação rápida e intuitiva.
 
-- **Fidelização de clientes:** o sistema pode ser configurado para
-  > coletar dados e mapear o comportamento dos clientes, permitindo a
-  > criação de campanhas personalizadas que aumentam a fidelidade e a
-  > retenção.
+- **Fidelização de clientes:** o sistema pode ser configurado para coletar dados e mapear o comportamento dos clientes, permitindo a criação de campanhas personalizadas que aumentam a fidelidade e a retenção.
 
-- **Aumento da credibilidade e reconhecimento da marca:** um aplicativo
-  > próprio gera confiança nos consumidores e melhora a visibilidade no
-  > mercado, criando uma imagem mais sólida e confiável da empresa.
+- **Aumento da credibilidade e reconhecimento da marca:** um aplicativo próprio gera confiança nos consumidores e melhora a visibilidade no mercado, criando uma imagem mais sólida e confiável da empresa.
 
 Além disso, o uso de tecnologia para automação dos processos internos,
 como controle de estoque e geração de relatórios, pode **aumentar a
@@ -191,7 +181,7 @@ desafios.
 
 <img src= "/Imagens/adas2.png">
 
-<img src= "/Imagens/_Pink and White Feminine Business Card .png">
+<img src= "/Imagens/adas3.png">
 
 
 ### Mapas de empatia
@@ -319,11 +309,9 @@ Utilizamos o Figma como ferramenta para criação deste protótipo para
 **tornar o Wireframe funcional e verificar correções** que seriam feitas
 para uma melhor experiência do usuário.
 
-- [[Protótipo de alta fidelidade
-  > (Celular)]{.underline}](https://www.figma.com/proto/99dnTB5dV1rzrPMmA1wqq6/Prot%C3%B3tipo?node-id=226-1133&node-type=frame&t=xVMpYs12HWpPS9RN-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+- [Protótipo de alta fidelidade (Celular)](https://www.figma.com/proto/99dnTB5dV1rzrPMmA1wqq6/Prot%C3%B3tipo?node-id=226-1133&node-type=frame&t=xVMpYs12HWpPS9RN-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
-- [[Protótipo de alta fidelidade
-  > (Computador)]{.underline}](https://www.figma.com/proto/99dnTB5dV1rzrPMmA1wqq6/Prot%C3%B3tipo?node-id=223-186&node-type=frame&t=sc8woxdXphHAgA5o-1&scaling=min-zoom&content-scaling=fixed&page-id=172%3A209)
+- [Protótipo de alta fidelidade (Computador)](https://www.figma.com/proto/99dnTB5dV1rzrPMmA1wqq6/Prot%C3%B3tipo?node-id=223-186&node-type=frame&t=sc8woxdXphHAgA5o-1&scaling=min-zoom&content-scaling=fixed&page-id=172%3A209)
 
 ***(Para que a experiência com o protótipo seja a melhor possível, ao
 entrar neste link no canto superior direito haverá um ícone para
@@ -340,31 +328,17 @@ investidores.
 
 1.  **Vídeo Explicativo do Protótipo:**
 
-    - **Objetivo:** gravar um vídeo detalhado apresentando o protótipo
-      > do sistema, com uma demonstração completa de todas as
-      > funcionalidades e opções de navegação. O vídeo será
-      > disponibilizado ao cliente para que ele possa compreender como o
-      > sistema funcionará de ponta a ponta.
+    - **Objetivo:** gravar um vídeo detalhado apresentando o protótipo do sistema, com uma demonstração completa de todas as funcionalidades e opções de navegação. O vídeo será disponibilizado ao cliente para que ele possa compreender como o sistema funcionará de ponta a ponta.
 
-    - **Conteúdo:** o vídeo explicará a interface do usuário, a
-      > experiência de navegação, e a lógica por trás de cada
-      > funcionalidade, destacando como o protótipo se alinha aos
-      > requisitos definidos no relatório.
+    - **Conteúdo:** o vídeo explicará a interface do usuário, a experiência de navegação, e a lógica por trás de cada funcionalidade, destacando como o protótipo se alinha aos requisitos definidos no relatório.
 
-    - **[[Apresentação do
-      > Protótipo]{.underline}](https://drive.google.com/file/d/1tNClL53ounabVYKw7yDvW9kc81QnnzY4/view?usp=sharing).**
+    - **[Apresentação do Protótipo](https://drive.google.com/file/d/1tNClL53ounabVYKw7yDvW9kc81QnnzY4/view?usp=sharing).**
 
 2.  **Realização de Pitch para clientes, especialistas e investidores:**
 
-    - **Objetivo:** demonstrar de forma convincente como o software pode
-      > beneficiar diretamente todos os stakeholders (partes
-      > interessadas), incluindo clientes, funcionários e gestores,
-      > trazendo maior eficiência e organização para o negócio.
+    - **Objetivo:** demonstrar de forma convincente como o software pode beneficiar diretamente todos os stakeholders (partes interessadas), incluindo clientes, funcionários e gestores, trazendo maior eficiência e organização para o negócio.
 
-    - **Conteúdo:** durante o pitch, será reforçado como o sistema,
-      > quando implementado, poderá resolver problemas críticos
-      > relacionados ao controle e monitoramento de pedidos, eliminando
-      > falhas na gestão de processos internos.
+    - **Conteúdo:** durante o pitch, será reforçado como o sistema, quando implementado, poderá resolver problemas críticos relacionados ao controle e monitoramento de pedidos, eliminando falhas na gestão de processos internos.
 
 ## 6.CONCLUSÃO
 
@@ -408,7 +382,7 @@ Este projeto foi desenvolvido pelos alunos:
   > [GitHub](https://github.com/luana-fialho)
 
 - João Henrique da Silva Oliveira Nunes Aguiar, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
-  > [[Linkedin]](http://www.linkedin.com/in/jo%C3%A3o-henrique-da-silva-oliveira-nunes-de-aguiar-b416a6335)
+  > [Linkedin](http://www.linkedin.com/in/jo%C3%A3o-henrique-da-silva-oliveira-nunes-de-aguiar-b416a6335)
   > [GitHub](https://github.com/JoaoHenriqueAguiar)
 
 - Sávio Angelo Ferreira, Estudante de Desenvolvimento de Software da UNIVIÇOSA.
