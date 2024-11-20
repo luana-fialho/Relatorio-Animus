@@ -171,7 +171,7 @@ as personas fictícias que orientaram o desenvolvimento deste projeto, destacand
 seus principais pontos de dor e como o sistema irá resolver esses
 desafios.
 
-<img src= "/Imagens/adas2.png">
+<img src= "/Imagens/Persona01.png">
 
 <p align="center">Figura 2 - Persona 01</p>
 
