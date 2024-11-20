@@ -3,7 +3,9 @@
 
 ## Estudo de Caso: Digitalização e automatização da encomenda de produtos na Lanchonete Da Carminha
 
-<img src= "/Imagens/Logo.png">
+<p align="center"><img src= "/Imagens/Logo.png"></p>
+
+<p align="center"> Figura 1 - Logo da empresa</p>
 
 ## 1.DESAFIO
 
@@ -171,13 +173,20 @@ desafios.
 
 <img src= "/Imagens/adas2.png">
 
+<p align="center">Figura 2 - Persona 01</p>
 
 <img src="/Imagens/Persona_02.png">
 
+<p align="center">Figura 3 - Persona 02</p>
 
 ### Mapas de empatia
 <img src= "/Imagens/MapaDeEmpatia1.png">
+
+<p align="center">Figura 4 - Mapa de Empatia 01</p>
+
 <img src= "/Imagens/MapaDeEmpatia2.png">
+
+<p align="center">Figura 5 - Mapa de Empatia 02</p>
 
 Após o levantamento das personas, é essencial aprofundar a compreensão
 desses usuários para garantir que o produto entregue seja de qualidade e
@@ -203,7 +212,11 @@ clara e amigável**, ao mesmo tempo que refletem a tradição e o
 acolhimento da marca. Assim, a identidade visual reforça a **qualidade
 artesanal dos salgados e a confiança que a lanchonete construiu ao longo
 dos anos com seus clientes**.
-<img src= "/Imagens/adas5.png">
+
+
+<p align="center"><img src= "/Imagens/Salgados_cores.png"></p>
+<p align="center">Figura 6 - Tipografia</p> 
+
 
 ### 5.1.WIREFRAME
 
