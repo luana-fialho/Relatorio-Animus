@@ -339,7 +339,7 @@ encontros regulares com stakeholders, além de avaliações constantes de
 usabilidade e comunicabilidade. O **trabalho em equipe** foi essencial,
 compreendendo a importância de cada etapa e função (CEO, *Scrum Master*,
 Analista de Sistemas, *Product Owner* e Designer), bem como a **relevância
-do esforço coletivo para a realização de um projeto sustentável**.
+do esforço coletivo para a realização de um projeto sustentável***.
 
 Como resultado, o sistema proposto demonstrou ser uma **solução prática
 e eficiente, com grande potencial para facilitar o controle de pedidos,
