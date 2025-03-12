@@ -373,4 +373,4 @@ Este projeto foi desenvolvido pelos alunos:
   > [GitHub](https://github.com/ThiagopFernandes01)
   >
   > 
-**-Trabalho Orientado pela Profa. Cristiane Aparecida Lana**
+**-Trabalho Orientado pela Profa. Cristiane Aparecida Lana.**
